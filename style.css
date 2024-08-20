@@ -130,7 +130,7 @@ h3 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 50px;
+    padding: 80px 300px;
 }
 
 .quote {
