@@ -174,3 +174,11 @@ strong {
 .sign-up-right {
     align-self: end;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
