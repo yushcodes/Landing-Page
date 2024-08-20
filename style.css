@@ -141,4 +141,36 @@ h3 {
 
 .author {
     margin-left: auto;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.sign-up-section {
+    padding: 80px 250px;
+}
+
+.sign-up-container {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 80px;
+    border-radius: 10px;
+}
+
+.outlined-button {
+    border: #f9faf8 2px solid;
+}
+
+strong {
+    color: #f9faf8;
+    font-size: 18px;
+}
+
+.sign-up-left p {
+    color: #e5e7eb;
+    font-size: 16px;
+}
+
+.sign-up-right {
+    align-self: end;
 }
